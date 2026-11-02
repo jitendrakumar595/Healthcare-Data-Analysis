@@ -23,13 +23,13 @@ The dashboard is designed to help users monitor key performance indicators (KPIs
 ## 📸 Dashboard Preview
 
 ### Financial Analysis
-![Financial Analysis Dashboard](F:\D A\Project\Healthcare\SS and SR\Financial-Analysis.png)
+![Financial Analysis](Screenshots/Financial-Analysis.png)
 
 ### Operational Analysis
-![Operational Analysis Dashboard](F:\D A\Project\Healthcare\SS and SR\Operational-Analysis.png)
+![Operational Analysis](Screenshots/Operational-Analysis.png)
 
 ### Recommendations
-![Dashboard Recommendations](F:\D A\Project\Healthcare\SS and SR\Recommendations.png)
+![Recommendations](Screenshots/Recommendations.png)
 
 ---
 
