@@ -244,7 +244,7 @@ This project demonstrates how Power BI can be used to transform healthcare data 
 ## 👨‍💻 Author
 
 **Jitendra Kumar**  
-Aspiring Data Analyst | Power BI | SQL | Excel
+Aspiring Data Analyst | Python | SQL Server | Advanced Excel | Power BI | Data Analysis & Visualization
 
 Thank you for visiting this project!
 
